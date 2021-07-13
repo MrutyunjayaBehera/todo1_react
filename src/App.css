@@ -1,0 +1,14 @@
+
+body{
+  font-family: 'Go Mono Regular';
+  font-size: larger;
+}
+
+.todo-app{
+  text-align: center;
+}
+
+.todo__list{
+  text-align: center;
+}
+
